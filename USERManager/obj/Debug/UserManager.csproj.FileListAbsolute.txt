@@ -1,0 +1,6 @@
+D:\Visual\Проги\USERManager\USERManager\bin\Debug\USERManager.dll
+D:\Visual\Проги\USERManager\USERManager\bin\Debug\USERManager.pdb
+D:\Visual\Проги\USERManager\USERManager\obj\Debug\UserManager.csprojAssemblyReference.cache
+D:\Visual\Проги\USERManager\USERManager\obj\Debug\UserManager.csproj.CoreCompileInputs.cache
+D:\Visual\Проги\USERManager\USERManager\obj\Debug\USERManager.dll
+D:\Visual\Проги\USERManager\USERManager\obj\Debug\USERManager.pdb

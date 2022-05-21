@@ -1,0 +1,38 @@
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistrationTest.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistrationTest.pdb
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistration.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistration.pdb
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.csprojAssemblyReference.cache
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.csproj.CoreCompileInputs.cache
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.csproj.CopyComplete
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.dll
+D:\Visual\Проги\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.pdb
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistrationTest.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistrationTest.pdb
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistration.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\UserRegistration.pdb
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.csproj.CopyComplete
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.dll
+D:\VisualStudio Projects\UserRegistration\UserRegistrationTest\obj\Debug\UserRegistrationTest.pdb
